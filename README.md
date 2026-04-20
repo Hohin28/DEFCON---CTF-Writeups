@@ -37,7 +37,7 @@
 | Field | Details |
 |---|---|
 | **Challenge Name** | Caesars Emporium |
-| **Category** | Crypto |
+| **Category** | Beginner |
 | **Difficulty** | Easy |
 | **Points** | 50 |
 | **Author** | shreyanth |
