@@ -356,7 +356,6 @@ defcon{s3cr3t5_4r3_h1dd3n_1n_th3_wh1t3sp4c3}
 
 ---
 
-*DEFCON CTF — All Beginner Challenges Solved*
 
 ### 🔐 Crypto
 
