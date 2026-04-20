@@ -1064,4 +1064,3 @@ The flag in leet-speak: *"read the stage directions"* — a perfect meta-joke. S
 
 ---
 
-*DEFCON CTF — All Beginner Challenges Solved*
