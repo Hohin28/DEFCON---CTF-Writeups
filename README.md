@@ -37,7 +37,7 @@
 | Field | Details |
 |---|---|
 | **Challenge Name** | Caesars Emporium |
-| **Category** | Crypto |
+| **Category** | Beginner |
 | **Difficulty** | Easy |
 | **Points** | 50 |
 | **Author** | shreyanth |
@@ -356,7 +356,6 @@ defcon{s3cr3t5_4r3_h1dd3n_1n_th3_wh1t3sp4c3}
 
 ---
 
-*DEFCON CTF — All Beginner Challenges Solved*
 
 ### 🔐 Crypto
 
@@ -1065,4 +1064,3 @@ The flag in leet-speak: *"read the stage directions"* — a perfect meta-joke. S
 
 ---
 
-*DEFCON CTF — All Beginner Challenges Solved*
